@@ -1,0 +1,17 @@
+soap\Client$2.class
+soap\webservice\OutputData.class
+soap\webservice\OutputDataResponse.class
+soap\webservice\GivePlayer.class
+soap\webservice\InputData.class
+soap\webservice\InputOutput.class
+soap\Client.class
+soap\webservice\package-info.class
+soap\webservice\Server.class
+soap\Place.class
+soap\Server.class
+soap\webservice\GivePlayerResponse.class
+soap\InputOutput.class
+soap\Client$1.class
+soap\webservice\ServerService.class
+soap\webservice\InputDataResponse.class
+soap\webservice\ObjectFactory.class
